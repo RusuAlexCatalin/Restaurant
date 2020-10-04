@@ -1,0 +1,12 @@
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\bin\Debug\Proiect.exe.config
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\bin\Debug\Proiect.exe
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\bin\Debug\Proiect.pdb
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.exe
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.pdb
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.Furnizori.resources
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.Aliment.resources
+E:\Visual Studio Things\MediiDeProiectareSiProgramare\Proiect\Proiect\obj\Debug\Proiect.StocAlimente.resources
